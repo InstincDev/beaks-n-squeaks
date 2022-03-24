@@ -1,10 +1,10 @@
 body {
-  background: #FFF;
+  background: #FCF6BD;
   font-family: "Open Sans", Arial, sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.8;
-  color: #45678a;
+  color: #495057;
 }
 
 a {
@@ -228,7 +228,7 @@ header .navbar .dropdown-menu a {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  height: calc(100vh - 117px);
+  height: calc(100vh - 115px);
   min-height: 700px;
 }
 
@@ -239,7 +239,7 @@ header .navbar .dropdown-menu a {
 }
 
 .owl-carousel.home-slider .slider-item .slider-text h1 {
-  font-size: 72px;
+  font-size: 62px;
   color: #45678a;
   line-height: 1.2;
   font-weight: 500;
@@ -429,7 +429,7 @@ header .navbar .dropdown-menu a {
 }
 
 .home-feature .one-col p, .home-feature .two-col p, .home-feature .three-col p {
-  color: #FCF6BD;
+  /* color: #FCF6BD; */
   font-weight: 300;
 }
 
@@ -596,7 +596,7 @@ header .navbar .dropdown-menu a {
 }
 
 .text-black {
-  color: #3F6C51 !important;
+  color: #FCF6BD !important;
 }
 
 .stretch-section .video {
