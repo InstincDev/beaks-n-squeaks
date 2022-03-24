@@ -238,6 +238,12 @@ header .navbar .dropdown-menu a {
   min-height: 700px;
 }
 
+.owl-carousel.home-slider .slider-item .slider-text.item2 {
+  justify-content: flex-end;
+  text-align: center;
+}
+
+
 .owl-carousel.home-slider .slider-item .slider-text h1 {
   font-size: 62px;
   color: #45678a;
@@ -673,6 +679,9 @@ header .navbar .dropdown-menu a {
 
 .custom-tabs .border-right {
   border-right: 1px solid #3F6C51;
+}
+.custom-tabs{
+  padding-top: 0;
 }
 
 @media (max-width: 767px) {
