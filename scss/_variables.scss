@@ -44,7 +44,7 @@ $red: #dc3545 !default;
 $orange: #fd7e14 !default;
 $yellow: #fcf6bd !default;
 $green: #3f6c51 !default;
-$teal: #20c997 !default;
+$teal: #D0F4DE !default;
 $cyan: #d0f4de !default;
 
 $colors: () !default;
@@ -151,7 +151,7 @@ $body-color: $gray-900 !default;
 //
 // Style anchor elements.
 
-$link-color: theme-color("primary") !default;
+$link-color: theme-color("primary");
 $link-decoration: none !default;
 $link-hover-color: darken($link-color, 15%) !default;
 $link-hover-decoration: underline !default;
